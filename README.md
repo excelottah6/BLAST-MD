@@ -15,12 +15,12 @@
   </p>
   <br>
 </p>
-<h1 align="center"> 𝐁𝐋𝐀𝐂𝐊-𝐌𝐃 𝑩𝑶𝑻
+<h1 align="center"> 𝐁𝐋𝐀𝐒𝐓-𝐌𝐃 𝑩𝑶𝑻
 </h1>
 <p align="center">  𝘽𝙔 𝘿𝙀𝙉𝙕𝙊-𝙐𝘾𝙃𝙄𝙒𝘼 
 
 # 
-**BLACK-MD** whatsapp bot is,
+**𝐁𝐋𝐀𝐒𝐓** whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 ## [`Fork BLAST-MD Repo`](https://github.com/DENZO-UCHIWA/BLACK-MD/fork)
