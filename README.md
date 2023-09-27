@@ -23,7 +23,7 @@
 **𝐁𝐋𝐀𝐒𝐓** whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
-## [`Fork BLAST-MD Repo`](https://github.com/DENZO-UCHIWA/BLACK-MD/fork)
+## [`Fork BLAST-MD Repo`](https://github.com/DENZO-UCHIWA/BLAST-MD/fork)
 
 
 
