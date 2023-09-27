@@ -36,7 +36,7 @@ A very good bot that you can use in whatsapp.
 
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DENZO-UCHIWA/BLACK-MD&template=https://github.com/DENZO-UCHIWA/BLACK-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DENZO-UCHIWA/BLAST-MD&template=https://github.com/DENZO-UCHIWA/BLAST-MD.git)
 
   
 ## ```THANAKS FOR``` [DENZO-UCHIWA](https://github.com/DENZO-UCHIWA)
